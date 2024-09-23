@@ -1,4 +1,4 @@
-# dat100-uke-39
+# dat100-uke-39 Tjommilaskus
 
 ## DAT100: Java Programmering 5 - Uke 39
 
